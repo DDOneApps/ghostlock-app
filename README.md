@@ -17,6 +17,7 @@
 | `6.1.145-android14-11-g09f1c0074ad7-ab14226177`        | Infinix Note 50s 5G, Infinix GT 30 (X6876)                       |
 | `6.1.145-android14-11-g74d1702dab4d-ab14669069`        | vivo T4                                                          |
 | `6.1.145-android14-11-geaa643a2c0ee-ab14763719`        | Motorola Razr 50 Ultra / Motorola Razr+ 2024                     |
+| `6.1.157-android14-11-gbd23337e42e7-ab14791245`        | Pixel 9a                                                         |
 | `6.1.162-android14-11-gce140c0e5bf5-ab15450923`        | Zenfone 11 Ultra                                                 |
 | `6.1.162-android14-11-g752d9c17787d-ab15574904`        | Pixel 9 Pro, Pixel 9 Pro Fold                                    |
 | `6.1.162-android14-11-g5e8b0cffebd1-ab15202165`        | Pixel 9a                                                         |
